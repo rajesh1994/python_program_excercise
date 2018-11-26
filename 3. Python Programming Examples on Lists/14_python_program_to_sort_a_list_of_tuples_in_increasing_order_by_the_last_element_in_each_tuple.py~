@@ -7,8 +7,9 @@ def last(n):
     
 def sort(tuples):
     return sorted(tuples, key = last)
-
-l1 = input("Enter a list of tuples:")
+l1=[]
+i = int(input("Enter the tuples element:"))
+tuples(i)
 print ("Sorted list of tuples:")
 print (sort(l1))
 """
