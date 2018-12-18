@@ -25,5 +25,18 @@ Problem Solution
 10. Exit.
 """
 
-def sum_array(array, soz):
-    
+def sum_array(array, soa):
+    if soa == 0:
+        return 0
+    else:
+        return array[soa - 1] + sum_array(array, soa - 1)
+n = int(input("Enter the number of elements for the list: "))
+a1 = []
+for i in range(0, n):
+    a2 = int(input("Enter an element: "))
+    a1.append(a2)
+print ("The list is:")
+print (a1)
+b = sum_array(a1, n)
+print ("The sum of elements in a list recursively")
+print (b)
