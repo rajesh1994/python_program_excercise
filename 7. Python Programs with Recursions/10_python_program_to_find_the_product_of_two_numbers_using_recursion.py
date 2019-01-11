@@ -13,10 +13,10 @@ Problem Solution
 import sys
 sys.setrecursionlimit(1500)
 def product(n1, n2):
-    if n1 < n2:
+    if (n1 < n2):
         return product(n2, n1)
-    elif n1 != 0:
-        return n1 + product(n1, n2 - 1)
+    elif n2 != 0:
+        return (n1 + product(n1, n2 - 1))
     else:
         return 0
 n1 = int(input("Enter a first number: "))
