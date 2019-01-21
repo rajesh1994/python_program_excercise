@@ -11,6 +11,7 @@ Problem Solution
 5. Print the flattened list.
 6. Exit.
 """
+
 def flatten(nlist):
     if len(nlist) == 0:
         return nlist
@@ -19,3 +20,9 @@ def flatten(nlist):
     return nlist[:1] + flatten(nlist[1:])
 nlist = [[1, 2], [3, 4], [5, 6]]
 print ("Flatten list is:", flatten(nlist))
+
+"""
+Note:
+Python isinstance()
+The isinstance() function checks if the object (first argument) is an instance or subclass of classinfo class (second argument).
+"""
