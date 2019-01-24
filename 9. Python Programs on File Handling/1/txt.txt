@@ -1,0 +1,77 @@
+Learn Data Science in Python
+
+STEP 0
+
+Before beginning you should have the answers for:
+- Why should I learn Python?
+- How would Python be useful?
+
+STEPl 1:
+
+Set up your Machine
+- Download and Install Anaconda
+
+STEP 2
+
+Get a grip on basics of Python
+
+- Begin with Codecademy.
+
+- Properly understand Lists,Tuples, Dictionaries, List
+comprehensionsDictionary comprehensions
+
+- Start solving Python assignments
+
+-------- Beginner Level Completed --------
+
+STEP 3
+
+Master the use of regular expressions in Python
+-Take google class on Python
+-Do 'baby names' excercise
+
+- Understand about Text Mining
+
+ 
+
+ STEP 4
+Gain mastery on Scientific Libraries in Python
+m - NumPy. SciPy, Matplotlib, Pandas.
+
+- Focus on NumPy Arrays
+- Go through tutorials of NumPy. SciPy, Pandas
+
+STEP 5
+
+Data Visualiz ion in Python
+- Harvard 5 tutorial on DV
+- Practice Assignment - M136
+
+
+----- Intermediate Level Completed ------
+
+STEP 6
+
+Time to conquer SciKit Learn and Machine Learning
+
+- Refer to Harvard's C5109 course
+V - Machine Learning course by Andrew Ng
+- Practice Assignments
+
+STEP 7
+
+Practice makes a man perfect
+- Practice the above steps religiously
+
+------ Advanced Level Completed -----
+
+STEP 8
+
+Dive deep into Deep Learning
+- Course by Geoff Hinton
+
+------ Expert Level Completed --------
+
+To view the complete learning path on Python, visit here:
+
+http:/lbit.lyl1lznbcw
