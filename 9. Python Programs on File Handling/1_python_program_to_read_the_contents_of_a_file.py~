@@ -12,6 +12,3 @@ Problem Solution:
 fname = str(input("Enter the name of the file with .txt extension: "))
 fopen = open(fname, 'r')
 print (fopen.read())
-#for i in fopen:
-#    print i
-
