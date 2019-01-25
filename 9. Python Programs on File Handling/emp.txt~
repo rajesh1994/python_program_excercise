@@ -1,0 +1,5 @@
+Problem Solution
+take the file name from the user.
+read each line from the file and use the title() function to capitalize each word in the line.
+print the altered lines of the file.
+exit.
